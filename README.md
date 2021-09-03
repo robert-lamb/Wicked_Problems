@@ -2,7 +2,7 @@
 
 Robert Lamb
 
-![WIN_20210903_14_00_49_Pro.jpg]
+![](WIN_20210903_14_00_49_Pro.jpg)
 
 ## Introduction
 
